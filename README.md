@@ -6,6 +6,12 @@ A small pixel-art mining and crafting game. A flat 2D sprite miner explores a 3D
 
 ![Pixeldelve](https://img.shields.io/badge/runs%20in-the%20browser-f2b33d)
 
+## The Prompt
+```text
+make pixel art game style that has crafting combat and mining sort of like Minecraft in 2D in a 3D world
+```
+Done using claude Opus 5.5 in 14 minutes
+
 ## Features
 
 - A new random island every game, with hills, beaches, caves, trees, coal, iron and diamonds
